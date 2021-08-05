@@ -1,0 +1,25 @@
+body {
+    background-color: seashell;
+    font-family: Verdana, Geneva, sans-serif;
+}
+h1 {
+    color: maroon;
+    font-family:  Impact, Charcoal, sans-serif;
+    margin-left: 20px;
+}
+h2 {
+    color: navy;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin-left: 20px;
+}
+h3 {
+    color: slategrey;
+    font-family: Verdana, Geneva, sans-serif;
+
+}
+li a {
+    color: sienna;
+    font-family:  "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+

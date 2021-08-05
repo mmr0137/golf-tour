@@ -1,0 +1,415 @@
+Golfer: Jerry Woods
+
+Tournament            Total Score
+----------            ----------
+Apex 1                222
+Apex 3                150
+Cary 2                219
+Garner 1              296
+Garner 3              150
+Oak City Championship 145
+Raleigh 1             145
+Raleigh 3             223
+WTCC 2                150
+=====================
+
+Golfer: Patton Perez
+
+Tournament            Total Score
+----------            ----------
+Apex 2                298
+Cary 1                153
+Cary 3                311
+Garner 2              229
+Garner 3              161
+Raleigh 1             155
+WTCC 1                223
+WTCC 3                294
+=====================
+
+Golfer: Andy Palmer
+
+Tournament            Total Score
+----------            ----------
+Apex 1                218
+Apex 3                146
+Cary 1                150
+Cary 2                228
+Garner 1              301
+Oak City Championship 155
+Raleigh 1             149
+Raleigh 3             221
+WTCC 2                148
+=====================
+
+Golfer: Danny Burger
+
+Tournament            Total Score
+----------            ----------
+Apex 2                305
+Cary 2                230
+Cary 3                307
+Garner 2              221
+Garner 3              155
+Raleigh 1             149
+WTCC 1                233
+WTCC 3                303
+=====================
+
+Golfer: Wes Bryant
+
+Tournament            Total Score
+----------            ----------
+Apex 1                219
+Apex 3                149
+Cary 1                152
+Cary 3                305
+Garner 1              297
+Oak City Championship 144
+Raleigh 1             144
+Raleigh 3             223
+WTCC 2                153
+=====================
+
+Golfer: Dusty Johns
+
+Tournament            Total Score
+----------            ----------
+Apex 1                215
+Apex 2                304
+Cary 2                222
+Garner 2              234
+Garner 3              148
+Oak City Championship 147
+Raleigh 1             144
+WTCC 1                219
+WTCC 3                290
+=====================
+
+Golfer: Lee Trevor
+
+Tournament            Total Score
+----------            ----------
+Apex 2                297
+Apex 3                148
+Cary 1                158
+Cary 3                296
+Garner 1              296
+Raleigh 1             149
+Raleigh 3             229
+WTCC 2                149
+=====================
+
+Golfer: Sergio Rose
+
+Tournament            Total Score
+----------            ----------
+Apex 1                227
+Apex 3                155
+Cary 2                227
+Garner 2              225
+Garner 3              150
+Raleigh 1             152
+WTCC 1                224
+WTCC 3                303
+=====================
+
+Golfer: Justin Garcia
+
+Tournament            Total Score
+----------            ----------
+Apex 2                312
+Cary 1                153
+Cary 3                296
+Garner 1              296
+Garner 3              150
+Oak City Championship 162
+Raleigh 1             144
+Raleigh 3             222
+WTCC 2                147
+=====================
+
+Golfer: Randy Fowler
+
+Tournament            Total Score
+----------            ----------
+Apex 1                232
+Apex 3                141
+Cary 1                146
+Cary 2                232
+Garner 2              225
+Raleigh 1             149
+WTCC 1                224
+WTCC 3                311
+=====================
+
+Golfer: Tom Casey
+
+Tournament            Total Score
+----------            ----------
+Apex 2                302
+Cary 2                230
+Cary 3                300
+Garner 1              302
+Garner 3              149
+Raleigh 1             153
+Raleigh 3             223
+WTCC 2                153
+=====================
+
+Golfer: James Thomas
+
+Tournament            Total Score
+----------            ----------
+Apex 1                229
+Apex 3                149
+Cary 1                149
+Cary 3                302
+Garner 2              223
+Raleigh 1             146
+WTCC 1                225
+WTCC 3                304
+=====================
+
+Golfer: Jack Nickels
+
+Tournament            Total Score
+----------            ----------
+Apex 1                224
+Apex 2                300
+Cary 2                214
+Garner 1              305
+Garner 3              147
+Oak City Championship 145
+Raleigh 1             153
+Raleigh 3             225
+WTCC 2                148
+=====================
+
+Golfer: Joey Watson
+
+Tournament            Total Score
+----------            ----------
+Apex 2                306
+Apex 3                146
+Cary 1                145
+Cary 3                302
+Garner 2              223
+Raleigh 1             153
+WTCC 1                222
+WTCC 3                309
+=====================
+
+Golfer: Mark Leech
+
+Tournament            Total Score
+----------            ----------
+Apex 1                230
+Apex 3                148
+Cary 2                241
+Garner 1              299
+Garner 3              148
+Raleigh 1             146
+Raleigh 3             234
+WTCC 2                160
+=====================
+
+Golfer: Russ Homey
+
+Tournament            Total Score
+----------            ----------
+Apex 2                306
+Cary 1                149
+Cary 3                304
+Garner 2              217
+Oak City Championship 157
+Raleigh 2             302
+WTCC 1                220
+WTCC 3                296
+=====================
+
+Golfer: Alex Rahm
+
+Tournament            Total Score
+----------            ----------
+Apex 1                231
+Apex 3                157
+Cary 2                228
+Garner 1              294
+Raleigh 2             303
+Raleigh 3             232
+WTCC 2                144
+=====================
+
+Golfer: Jordan Speed
+
+Tournament            Total Score
+----------            ----------
+Apex 2                302
+Cary 3                299
+Garner 2              222
+Garner 3              148
+Oak City Championship 145
+Raleigh 2             288
+WTCC 1                226
+WTCC 3                310
+=====================
+
+Golfer: Jason Duffy
+
+Tournament            Total Score
+----------            ----------
+Apex 1                234
+Apex 3                148
+Cary 1                153
+Garner 1              304
+Raleigh 2             305
+Raleigh 3             226
+WTCC 2                150
+=====================
+
+Golfer: Liam Horse
+
+Tournament            Total Score
+----------            ----------
+Apex 2                304
+Cary 2                224
+Garner 2              221
+Garner 3              147
+Raleigh 2             299
+WTCC 1                226
+WTCC 3                308
+=====================
+
+Golfer: Kevin Kissme
+
+Tournament            Total Score
+----------            ----------
+Apex 3                156
+Cary 1                151
+Cary 3                314
+Garner 1              291
+Raleigh 2             301
+Raleigh 3             226
+WTCC 2                160
+=====================
+
+Golfer: Bryan Harmony
+
+Tournament            Total Score
+----------            ----------
+Apex 1                227
+Cary 2                225
+Garner 2              230
+Garner 3              151
+Raleigh 2             299
+WTCC 1                224
+WTCC 3                310
+=====================
+
+Golfer: Matsu Hidey
+
+Tournament            Total Score
+----------            ----------
+Apex 2                301
+Cary 1                150
+Cary 3                296
+Garner 1              301
+Raleigh 2             304
+Raleigh 3             221
+WTCC 2                153
+=====================
+
+Golfer: Booth Koepka
+
+Tournament            Total Score
+----------            ----------
+Apex 1                220
+Apex 3                151
+Cary 2                227
+Garner 2              221
+Raleigh 2             306
+WTCC 1                224
+WTCC 3                308
+=====================
+
+Golfer: Phil Mickey
+
+Tournament            Total Score
+----------            ----------
+Apex 2                304
+Cary 3                293
+Garner 1              304
+Garner 3              149
+Oak City Championship 149
+Raleigh 2             298
+Raleigh 3             221
+WTCC 2                151
+=====================
+
+Golfer: Chaz Hoffman
+
+Tournament            Total Score
+----------            ----------
+Apex 1                233
+Apex 3                154
+Cary 1                148
+Garner 2              233
+Raleigh 2             301
+WTCC 1                221
+WTCC 3                297
+=====================
+
+Golfer: Matty Kuch
+
+Tournament            Total Score
+----------            ----------
+Apex 2                308
+Cary 2                228
+Garner 1              297
+Garner 3              156
+Raleigh 2             309
+Raleigh 3             225
+WTCC 2                149
+=====================
+
+Golfer: Brendan Stool
+
+Tournament            Total Score
+----------            ----------
+Apex 3                157
+Cary 1                149
+Cary 3                301
+Garner 2              225
+Raleigh 2             298
+WTCC 1                235
+WTCC 3                297
+=====================
+
+Golfer: Kyle Stands
+
+Tournament            Total Score
+----------            ----------
+Apex 1                224
+Cary 2                231
+Garner 1              305
+Garner 3              150
+Raleigh 2             294
+Raleigh 3             224
+WTCC 2                151
+=====================
+
+Golfer: Ashton Hadwin
+
+Tournament            Total Score
+----------            ----------
+Apex 2                303
+Cary 1                147
+Cary 3                306
+Garner 2              225
+Oak City Championship 148
+Raleigh 2             301
+WTCC 1                219
+WTCC 3                295
+=====================
+
